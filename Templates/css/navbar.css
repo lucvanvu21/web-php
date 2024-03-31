@@ -1,0 +1,127 @@
+@import url(https://fonts.googleapis.com/css?family=Material+Icons);
+@import url(https://fonts.googleapis.com/css?family=Merriweather);
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Oswald&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script&display=swap);
+
+
+
+
+.layout_menuBtn__2JcNO svg {
+  fill: #fff;
+  width: 1em;
+  height: 1em
+}
+
+.layout_drawer__a a {
+  color: #fff
+}
+
+.layout_drawer__a .layout_icon__2 {
+  margin-right: .7em
+}
+
+.layout_drawer__a svg {
+  fill: #fff;
+  width: 1.2em
+}
+
+.layout_drawer__a .layout_name__3C {
+  background: #06121e
+}
+
+.layout_drawer__a .layout_name__3C .layout_icon__2 {
+  margin-right: 1em
+}
+
+.layout_drawer__a .layout_registerBtn_ {
+  margin: 1em 1em 0
+}
+
+.layout_hasNavbarFixedTop__3 {
+  padding-top: 3.25rem
+}
+
+.layout_navbar__1COmD {
+  -webkit-transition: background-color .3s linear;
+  transition: background-color .3s linear
+}
+
+.layout_navbar__1COmD.layout_hasBg__1CDaI {
+  background-color: rgba(51, 10, 103, .93)
+}
+
+.layout_navbar__1COmD .layout_logo__319hZ {
+  width: 112px;
+  height: 28px
+}
+
+.layout_navbar__1COmD .layout_logoText__3aVvH {
+  font-size: 36px;
+  font-family: Dancing Script, Arial, Gadget, sans-serif;
+  background-image: -webkit-gradient(linear, right top, left top, color-stop(0, #adfbda), color-stop(30%, #35c3ff), color-stop(50%, #fda399), color-stop(70%, #76d880), color-stop(90%, #ebf38b), to(#adfbda));
+  background-image: linear-gradient(-90deg, #adfbda, #35c3ff 30%, #fda399 50%, #76d880 70%, #ebf38b 90%, #adfbda);
+  -webkit-animation: layout_animatedBackground_a__uXw48 20s linear infinite alternate;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent
+}
+
+@media screen and (max-width: 768px) {
+
+  .layout_navbar__1COmD .layout_countries__q-QN9,
+  .layout_navbar__1COmD .layout_faq__oAJjB,
+  .layout_navbar__1COmD .layout_genres__2DQxP {
+    display: none
+  }
+}
+
+.layout_navbar__1COmD .layout_search__32vpf svg {
+  width: 1em;
+  fill: #fff
+}
+
+.layout_navbar__1COmD .layout_name__3C {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 150px
+}
+
+@media screen and (max-width: 768px) {
+  .layout_navbar__1COmD .layout_name__3C {
+    display: none
+  }
+}
+
+@-webkit-keyframes layout_animatedBackground_a__uXw48 {
+  0% {
+    background-position: 0 0
+  }
+
+  to {
+    background-position: -500px 0
+  }
+}
+
+@keyframes layout_animatedBackground_a__uXw48 {
+  0% {
+    background-position: 0 0
+  }
+
+  to {
+    background-position: -500px 0
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .layout_navbarWidescreen__DSXBH {
+    display: none
+  }
+}
+
+@media screen and (min-width: 769px) {
+  .layout_navbarSmallscreen__3CURI {
+    display: none
+  }
+}
+
