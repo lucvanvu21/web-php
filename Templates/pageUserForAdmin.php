@@ -4,13 +4,17 @@
 
 <head>
 
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
 
-  <link href="Templates/bootstrap/bootstrap.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+  <!-- <link href="Templates/bootstrap/bootstrap.css" rel="stylesheet">
   <script src="Templates/bootstrap/bootstrap.bundle.js"></script>
-  <script src="Templates/bootstrap/bootstrap.js"></script>
+  <script src="Templates/bootstrap/bootstrap.js"></script> -->
   <link rel="stylesheet" href="Templates/Css/css.css">
-  <link rel="stylesheet" href="Templates/fontawesome/css/all.css">
-
 </head>
 <script>
   function showLoadingMessage() {
@@ -142,9 +146,6 @@
 
 
 
-  <script src="Templates/bootstrap/jquery-3.3.1.min.js"></script>
-  <script src="Templates/bootstrap/popper.min.js"></script>
-  <script src="Templates/bootstrap/bootstrap.min.js"></script>
 </body>
 
 </html>
