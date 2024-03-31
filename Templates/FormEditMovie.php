@@ -4,13 +4,22 @@
 
 ?>
 <html lang="en">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
 
+<<<<<<< HEAD
 <link href="/Templates/bootstrap/bootstrap.css" rel="stylesheet">
+=======
+<<<<<<< HEAD
+<link href="Templates/bootstrap/bootstrap.css" rel="stylesheet">
+>>>>>>> 75ef09ebcfdecc77c8be6926520238a75c481f56
 <script src="Templates/bootstrap/bootstrap.bundle.js"></script>
 <script src="Templates/bootstrap/bootstrap.js"></script>
 <link rel="stylesheet" href="Templates/Css/css.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
+<<<<<<< HEAD
 
 <link href="./bootstrap/bootstrap.css" rel="stylesheet">
 <script src="./bootstrap/bootstrap.bundle.js"></script>
@@ -18,6 +27,17 @@
 
 <link rel="stylesheet" href="/Templates/css/css.css">
 
+=======
+=======
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+  <!-- <link href="Templates/bootstrap/bootstrap.css" rel="stylesheet">
+  <script src="Templates/bootstrap/bootstrap.bundle.js"></script>
+  <script src="Templates/bootstrap/bootstrap.js"></script> -->
+  <link rel="stylesheet" href="Templates/Css/css.css">
+>>>>>>> 6736f380c0428d1560f0fdd5def1bb74a3b0c6df
+>>>>>>> 75ef09ebcfdecc77c8be6926520238a75c481f56
 
 <body>
     <nav>
