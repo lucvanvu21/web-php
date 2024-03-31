@@ -9,7 +9,8 @@
   <script src="Templates/bootstrap/bootstrap.bundle.js"></script>
   <script src="Templates/bootstrap/bootstrap.js"></script>
   <link rel="stylesheet" href="Templates/Css/css.css">
-  <link rel="stylesheet" href="Templates/fontawesome/css/all.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  
 
 </head>
 <script>
