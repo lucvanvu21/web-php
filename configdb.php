@@ -8,6 +8,8 @@ class Database
     private function __construct()
     {
         $this->connection = mysqli_connect("localhost", "root", "", "webphim");
+        // $this->connection = mysqli_connect("	sql111.infinityfree.com", "if0_36275262", "834zst2y", "if0_36275262_webphim");
+
         mysqli_set_charset($this->connection, "utf8");
     }
 

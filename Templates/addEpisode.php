@@ -10,9 +10,14 @@
     <script src="Templates/bootstrap/bootstrap.bundle.js"></script>
     <script src="Templates/bootstrap/bootstrap.js"></script>
     <link rel="stylesheet" href="Templates/Css/css.css">
-    <link rel="stylesheet" href="Templates/fontawesome/css/all.css">
-    <link rel="stylesheet" href="slick/slick-1.8.1/slick/slick.css">
-    <link rel="stylesheet" href="slick/slick-1.8.1/slick/slick-theme.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+
+    <link href="./bootstrap/bootstrap.css" rel="stylesheet">
+    <script src="./bootstrap/bootstrap.bundle.js"></script>
+    <script src="./bootstrap/bootstrap.js"></script>
+<link rel="stylesheet" href="/Templates/css/css.css">
+
 
 </head>
 
@@ -73,7 +78,7 @@
     </nav>
     <div style="margin: 104px 10px 30px 10px;">
 
-       
+
         <div class="row mt-3" style="min-height: 300px;">
             <div class="col-lg-2">
 

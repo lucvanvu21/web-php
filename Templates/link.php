@@ -19,12 +19,15 @@
 <meta property="og:description" content="Xem phim online chất lượng cao Full HD." />
 <meta property="og:locale" content="vi_VN" />
 <meta name="robots" content="noindex" />
-<link rel="stylesheet" href="Templates/css/3.css" />
-<link rel="stylesheet" href="Templates/css/deatail1.css" data-n-g="" />
-<link rel="stylesheet" href="Templates/css/navbar.css" data-n-g="" />
-<link rel="preload" href="Templates/css/home.css" as="style" />
-<link rel="stylesheet" href="Templates/css/home.css" data-n-p="" />
 
 
-<link rel="stylesheet" href="Templates/fontawesome/css/all.css">
+<link rel="stylesheet" href="/Templates/css/detail1.css" />
+<link rel="stylesheet" href="/Templates/css/navbar.css" />
+<link rel="preload" href="/Templates/css/home.css" />
+<link rel="stylesheet" href="/Templates/css/home.css" />
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<!-- <link rel="stylesheet" href="Templates/fontawesome/css/all.css"> -->
 <noscript data-n-css="true"></noscript>
